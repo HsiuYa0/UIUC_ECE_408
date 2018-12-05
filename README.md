@@ -1,1 +1,2 @@
-# UIUC_ECE_408
+# UIUC_ECE_408 Applied Parallel Programming
+Fall 2018
